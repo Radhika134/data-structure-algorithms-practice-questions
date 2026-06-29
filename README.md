@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
