@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
