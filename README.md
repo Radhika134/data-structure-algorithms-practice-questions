@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
