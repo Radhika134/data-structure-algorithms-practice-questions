@@ -13,6 +13,7 @@ public:
                 return true;
             }
 
+            //[1,0,1,1,1] is case mei low=1, mid=1, high=1 hum decide nhi kr skte konsa half sorted h toh hum aise mei array ko shringk krte h takiota lg ske ki konsa half sorted h 
             if(nums[low]==nums[mid] && nums[mid]==nums[high])
             {
                 low++;
