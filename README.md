@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
