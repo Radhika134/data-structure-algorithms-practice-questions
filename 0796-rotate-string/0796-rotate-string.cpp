@@ -27,7 +27,8 @@ public:
             i++;
         }
         
-        return false;
+        
+        return rotateK(s,goal,k);
         
     }
 };
