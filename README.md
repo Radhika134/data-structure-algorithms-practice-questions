@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Linked List
 |  |
 | ------- |
