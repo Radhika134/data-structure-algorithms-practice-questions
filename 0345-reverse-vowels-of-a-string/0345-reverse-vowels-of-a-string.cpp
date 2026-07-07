@@ -10,16 +10,19 @@ public:
         for (int i = 0, j = n - 1; i < j;) {
             if (!isVowel(s[i])) {
                 i++;
+                continue;
             }
             if (!isVowel(s[j])) {
                 j--;
+                continue;
             }
-            if (isVowel(s[i]) && isVowel(s[j])) {
-                swap(s[i], s[j]);
-                i++;
-                j--;
-            }
+
+            swap(s[i], s[j]);
+            i++;
+            j--;
         }
         return s;
     }
+    
+
 };
