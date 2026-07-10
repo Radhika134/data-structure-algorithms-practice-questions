@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
@@ -38,16 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0875-koko-eating-bananas) |
