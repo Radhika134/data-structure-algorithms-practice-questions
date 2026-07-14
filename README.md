@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2073-time-needed-to-buy-tickets) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
