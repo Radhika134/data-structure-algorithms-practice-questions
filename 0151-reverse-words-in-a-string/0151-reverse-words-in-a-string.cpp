@@ -26,6 +26,11 @@ public:
         }
 
         // temp = "";
+
+
+       //basically ye java ka split func manually bnaya
+
+
         for(int i = words.size()-1; i>=0; i--)
         {
             temp+=words[i];
