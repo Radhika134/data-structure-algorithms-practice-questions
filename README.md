@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
