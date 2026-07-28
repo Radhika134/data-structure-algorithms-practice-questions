@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0443-string-compression) |
