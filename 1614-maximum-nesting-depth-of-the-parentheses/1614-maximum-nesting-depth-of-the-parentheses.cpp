@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxDepth(string s) {
         int depth = 0;
-        int maxAns = INT_MIN;
+        int maxAns = 0;
         for(int i=0;i<s.size();i++)
         {
             char ch = s[i];
@@ -16,8 +16,8 @@ public:
                 depth--;
             }
         }
-        if(maxAns!=INT_MIN) return maxAns;
-        return 0;
+        return maxAns;
+        
        
         
     }
