@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
