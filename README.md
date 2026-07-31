@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1539-kth-missing-positive-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
+| [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
