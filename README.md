@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0168-excel-sheet-column-title) |
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0205-isomorphic-strings) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0168-excel-sheet-column-title) |
