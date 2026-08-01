@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0061-rotate-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0014-longest-common-prefix) |
