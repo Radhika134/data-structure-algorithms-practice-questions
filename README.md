@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -242,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
