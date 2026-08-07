@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
