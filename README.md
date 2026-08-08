@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
