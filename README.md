@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0190-reverse-bits) |
 ## Queue
 |  |
 | ------- |
