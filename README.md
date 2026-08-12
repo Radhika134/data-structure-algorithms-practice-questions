@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1539-kth-missing-positive-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3842-toggle-light-bulbs) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
