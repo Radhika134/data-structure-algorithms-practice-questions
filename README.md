@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0225-implement-stack-using-queues) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
