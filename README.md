@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
