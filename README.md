@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0486-predict-the-winner) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0205-isomorphic-strings) |
