@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
