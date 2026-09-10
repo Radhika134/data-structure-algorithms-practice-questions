@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -457,4 +458,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
