@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0875-koko-eating-bananas) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3904-smallest-stable-index-ii) |
