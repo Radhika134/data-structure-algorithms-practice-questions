@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0232-implement-queue-using-stacks) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0503-next-greater-element-ii) |
