@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
