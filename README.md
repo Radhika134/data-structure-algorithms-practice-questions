@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
