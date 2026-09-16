@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2029-stone-game-ix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Design
 |  |
