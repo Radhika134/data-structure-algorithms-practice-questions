@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -604,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0460-lfu-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
