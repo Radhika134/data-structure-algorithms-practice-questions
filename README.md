@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
