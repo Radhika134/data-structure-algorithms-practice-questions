@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0940-distinct-subsequences-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0940-distinct-subsequences-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
