@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0042-trapping-rain-water) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0678-valid-parenthesis-string) |
