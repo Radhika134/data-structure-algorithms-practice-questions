@@ -3,17 +3,14 @@ class Solution {
         int n = height.length;
 
         int left = 0, right = n -1;
-        int maxArea = Integer.MIN_VALUE;
+        int maxArea = 0;
 
         while(left < right)
         {
             int area = Math.min(height[left], height[right]) * (right - left);
 
-            if(maxArea < area)
-            {
-                maxArea = area;
-            }
-
+            maxArea = Math.max(maxArea, area);
+            
             if(height[left] < height[right])
             {
                 left++;
