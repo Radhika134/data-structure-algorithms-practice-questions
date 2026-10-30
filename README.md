@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0162-find-peak-element) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0645-set-mismatch) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
