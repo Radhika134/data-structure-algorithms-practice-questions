@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1510-stone-game-iv) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -810,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
