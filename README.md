@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Radhika134/data-structure-algorithms-practice-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
